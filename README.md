@@ -1,1 +1,2 @@
-# Exam
+# django project 
+for myself
